@@ -1,0 +1,12 @@
+{
+  "name": "primer-proyecto-node",
+  "version": "1.0.0",
+  "description": "primer proyecto javascript con node en Open Bootcamp",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Nicolas Parra",
+  "license": "ISC"
+}
